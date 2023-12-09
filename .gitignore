@@ -1,0 +1,7 @@
+/build
+/dist
+/printing
+/ui
+/__pycache__
+/.idea
+*.db
