@@ -3,3 +3,5 @@
 Пример бирок создаваемых программой
 ![Иванова Дарья Ивановна Пошив женской блузы 2000-01-01](https://github.com/SonyaSorokina/atele-/assets/125186901/43cd03fa-749f-4ea6-93ee-40b8b4787564)
 ![Петров Петр Петрович Ремон молнии на куртке 2000-01-01](https://github.com/SonyaSorokina/atele-/assets/125186901/2e1b86f5-7f15-4f8d-858d-e5f6b865a5d4)
+
+Используемые библиотеки: PyQt5, PIL, pywhatkit
